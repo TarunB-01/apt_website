@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa; /* Light gray background */
+            color: #000; /* Black text */
+            padding: 50px 0; /* Add padding to the top and bottom */
+        }
+
+        .card {
+            background-color: #fff; /* White card background */
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+
+        .loginbtn {
+            background-color: #007bff; /* Bootstrap primary color for button background */
+            color: #fff; /* White text */
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        a {
+            color: #007bff; /* Bootstrap primary color for links */
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="card">
+                <h1 class="text-center mb-4">Login</h1>
+                <form method="POST" action="">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input class="form-control" type="text" id="username" name="username" placeholder="Enter Username" required/>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input class="form-control" type="password" id="password" name="password" placeholder="Enter Password" required/>
+                    </div>
+
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary loginbtn">Sign In</button>
+                    </div>
+                </form>
+                <p class="text-center">Don't have an account? <a href="{% url 'reg-form' %}" class="btn btn-link">Sign Up here</a></p>
+
+                {% if messages %}
+                    {% for message in messages %}
+                        <p class="text-danger text-center" style="font-weight: bold;">{{ message }}</p>
+                    {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

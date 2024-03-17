@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scan Form</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h2 class="mt-5">Scan Form</h2>
+        <form class="mt-3" id="scanForm">
+            <div class="form-group">
+                <label for="url">Enter URL:</label>
+                <input type="url" class="form-control" id="url" name="url" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        <div class="mt-5" id="statusContainer">
+            <h3>Status</h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>URL</th>
+                        <th>Status</th>
+                        <th>Download Report</th> <!-- New column for the download button -->
+                    </tr>
+                </thead>
+                <tbody id="statusBody">
+                    <!-- Table rows will be dynamically added here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (optional) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+       $(document).ready(function() {
+    // Function to fetch status dynamically
+    function fetchStatus() {
+        $.getJSON("/fetch-scan-status/", function(data) {
+            $('#statusBody').html('');
+            $.each(data, function(url, status) {
+                // Encode the URL
+                var encodedUrl = encodeURIComponent(url);
+                // Generate download link
+                var downloadLink = '/reports/' + encodeURIComponent(reportId) + '/download/';
+                // Create table row with download button
+                var newRow = '<tr><td>' + url + '</td><td>' + status + '</td><td><a href="' + downloadLink + '" class="btn btn-primary">Download</a></td></tr>';
+                // Append row to the table body
+                $('#statusBody').append(newRow);
+            });
+        });
+    }
+
+    // Call fetchStatus function every 5 seconds
+    setInterval(fetchStatus, 5000);
+
+    // Initial call
+    fetchStatus();
+
+    // Submit form using AJAX
+    $('#scanForm').submit(function(e) {
+        e.preventDefault();
+        var formData = $(this).serialize();
+        $.ajax({
+            type: "GET",
+            url: "/scan_with_nmap_and_zap/",
+            data: formData,
+            success: function() {
+                // On success, refresh status
+                fetchStatus();
+            }
+        });
+    });
+});
+
+    </script>
+    
+</body>
+</html>

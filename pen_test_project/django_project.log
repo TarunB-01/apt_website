@@ -1,0 +1,2370 @@
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=https://kamarajengg.edu.in&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 16
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=https://kamarajengg.edu.in&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002C9A84EEAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C9A84EEAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 104, in scan_with_nmap_and_zap_view
+    resp = requests.get(f"{zap_api_url}/JSON/ascan/view/status/?zapapiformat=JSON&scanId={scan_id}&apikey={api_key}")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C9A84EEAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 16
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 14
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/view/status/?zapapiformat=JSON&scanId=0&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 16
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /OTHER/core/other/htmlreport/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 41674
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /scan_form/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 86, in submit_url_view
+    return render(request, 'scan_form.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'fetch_scan_status' not found. 'fetch_scan_status' is not a valid view function or pattern name.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000019657BDC8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019657BDC8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 113, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019657BDC8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001D03F92BA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D03F92BA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 113, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D03F92BA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Starting new HTTP connection (1): localhost:8080
+Not Found: /fetch_scan_status/
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+Not Found: /fetch_scan_status/
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Not Found: /fetch_scan_status/
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+Not Found: /fetch_scan_status/
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /scan/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch-scan-status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /scan/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /scan_with_nmap_and_zap/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+Not Found: /fetch_scan_status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch_scan_status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /scan_with_nmap_and_zap/
+Watching for file changes with StatReloader
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /scan/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch-scan-status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /fetch-scan-status/
+Not Found: /fetch-scan-status/
+E:\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /scan/
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000025B793191D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025B793191D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 117, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025B793191D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: pen_test_app_scanstatus.url
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 102, in scan_with_nmap_and_zap_view
+    ScanStatus.objects.create(url=url, status='scheduled')
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: UNIQUE constraint failed: pen_test_app_scanstatus.url
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\options.py", line 681, in get_field
+    return self.fields_map[field_name]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'nmap_status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 132, in scan_with_nmap_and_zap_view
+    ScanStatus.objects.filter(url=url).update(nmap_status='completed')
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1228, in update
+    query.add_update_values(kwargs)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\subqueries.py", line 88, in add_update_values
+    field = self.get_meta().get_field(name)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\options.py", line 683, in get_field
+    raise FieldDoesNotExist(
+django.core.exceptions.FieldDoesNotExist: ScanStatus has no field named 'nmap_status'
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\options.py", line 681, in get_field
+    return self.fields_map[field_name]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'nmap_status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 132, in scan_with_nmap_and_zap_view
+    ScanStatus.objects.filter(url=url).update(nmap_status='completed')
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1228, in update
+    query.add_update_values(kwargs)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\subqueries.py", line 88, in add_update_values
+    field = self.get_meta().get_field(name)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\options.py", line 683, in get_field
+    raise FieldDoesNotExist(
+django.core.exceptions.FieldDoesNotExist: ScanStatus has no field named 'nmap_status'
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000239D347A010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239D347A010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 134, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239D347A010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 137, in scan_with_nmap_and_zap_view
+    ScanStatus.objects.get(url=url,status='Completed')
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+pen_test_app.models.ScanStatus.DoesNotExist: ScanStatus matching query does not exist.
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000183EE732950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183EE732950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 116, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183EE732950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000183EE9ABFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183EE9ABFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 116, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183EE9ABFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000183EE992CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183EE992CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 116, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183EE992CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=https://quarksek.com&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=https://quarksek.com&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=https://quarksek.com&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=https://quarksek.com&apikey=c4gtjjrdjd5u8akrvq75d5089t HTTP/1.1" 200 12
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table pen_test_app_scanstatus has no column named user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 152, in scan_with_nmap_and_zap_view
+    scan_status = ScanStatus.objects.create(url=url, status='scheduled')
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table pen_test_app_scanstatus has no column named user_id
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table pen_test_app_scanstatus has no column named user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\pen_test_project\pen_test_app\views.py", line 152, in scan_with_nmap_and_zap_view
+    scan_status = ScanStatus.objects.create(url=url, status='scheduled')
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Deepa\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table pen_test_app_scanstatus has no column named user_id
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /accounts/login/
+Not Found: /accounts/login/
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /signin/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 49, in loginView
+    return render('dashboard.html')  # Redirect to the dashboard page after successful login
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: render() missing 1 required positional argument: 'template_name'
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /download-report/
+Watching for file changes with StatReloader
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table pen_test_app_scanstatus has no column named timestamp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 152, in scan_with_nmap_and_zap_view
+    scan_status = ScanStatus.objects.create(url=url, status='scheduled')
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\sqlite3\base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table pen_test_app_scanstatus has no column named timestamp
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1423, in getresponse
+    response.begin()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1423, in getresponse
+    response.begin()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 165, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 400, in request
+    self.endheaders()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1326, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1085, in _send_output
+    self.send(msg)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1029, in send
+    self.connect()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 238, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001BB234D7740>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BB234D7740>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 165, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /JSON/core/action/newSession/?apikey=c4gtjjrdjd5u8akrvq75d5089t (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BB234D7740>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1423, in getresponse
+    response.begin()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1423, in getresponse
+    response.begin()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 165, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1423, in getresponse
+    response.begin()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1423, in getresponse
+    response.begin()
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 165, in scan_with_nmap_and_zap_view
+    requests.get(f"{zap_api_url}/JSON/core/action/newSession/?apikey={api_key}")
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=https://srec.ac.in/&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=https://srec.ac.in/&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 191, in scan_with_nmap_and_zap_view
+    report = Report.objects.create(user=request.user, url=url)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Report() got unexpected keyword arguments: 'user', 'url'
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=https://screc.ac.in&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=https://screc.ac.in&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 400 67
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 191, in scan_with_nmap_and_zap_view
+    report = Report.objects.create(user=request.user, url=url)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Report() got unexpected keyword arguments: 'user', 'url'
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Internal Server Error: /scan_with_nmap_and_zap/
+Traceback (most recent call last):
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py", line 191, in scan_with_nmap_and_zap_view
+    report = Report.objects.create(user=request.user, url=url)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sakka\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Report() got unexpected keyword arguments: 'user', 'url'
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=https://quarksek.com&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=https://quarksek.com&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/core/action/newSession/?apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 15
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/spider/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+Starting new HTTP connection (1): localhost:8080
+http://localhost:8080 "GET /JSON/ascan/action/scan/?zapapiformat=JSON&url=http://endless.horse&apikey=u14biiejgnnmbigmkib12t10gg HTTP/1.1" 200 12
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
+Not Found: /reports/http://endless.horse/download/
+Not Found: /reports/http://endless.horse/download/
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
+Not Found: /reports/http://endless.horse/download/
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\sakka\Downloads\pen_test_project\pen_test_project\pen_test_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reports/http://endless.horse/download/
